@@ -39,9 +39,13 @@ ising_quad = {
 
 This repository also includes Python code that we used to generate this dataset. 
 
+## License
+
+This dataset is released under the MIT License. 
+
 ## Citation
 
-If you use this dataset or the accompanying Python code in your work, please cite the following papers
+If you use this dataset or the accompanying Python code in your work, please cite the following papers　([S. Kikuchi, N. Togawa, and S. Tanaka, 2023](https://arxiv.org/abs/2304.12796))
 
 ```
 @article{kikuchi2023dynamical,
