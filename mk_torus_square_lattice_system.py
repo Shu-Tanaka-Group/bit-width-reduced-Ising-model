@@ -1,15 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import random
 import numpy as np
-
-
-# In[4]:
-
 
 #Generate a torus ferromagnetic square L x L lattice system
 def mk_torus_ferromagnetic(L):
@@ -35,10 +25,6 @@ def mk_torus_ferromagnetic(L):
         ising_linear['s{0}'.format(i)] = 7  
         
     return ising_quad, ising_linear
-
-
-# In[6]:
-
 
 #Generate a torus random square L x L lattice system
 def mk_torus_random(L):
