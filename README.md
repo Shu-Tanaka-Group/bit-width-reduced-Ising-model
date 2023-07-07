@@ -37,7 +37,7 @@ ising_quad = {
 
 ## Python Code to Generate Dataset
 
-This repository also includes Python code that we used to generate this dataset. 
+This repository also includes Python code `mk_torus_square_lattice_system.py` that we used to generate this dataset. 
 
 ## License
 
