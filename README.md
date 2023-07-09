@@ -2,6 +2,8 @@
 
 This repository contains the dataset used in the paper "Dynamical process of a bit-width reduced Ising model with simulated annealing".
 
+[Shuta Kikuchi, Nozomu Togawa, and Shu Tanaka, arXiv:2304.12796](https://arxiv.org/abs/2304.12796)
+
 ## Dataset Structure 
 
 The data format is a Python dictionary. The dataset is divided into two types: `ising_linear` and `ising_quad`.
@@ -55,7 +57,7 @@ This dataset is released under the MIT License.
 
 ## Citation
 
-If you use this dataset or the accompanying Python code in your work, please cite the following papers ([S. Kikuchi, N. Togawa, and S. Tanaka, 2023](https://arxiv.org/abs/2304.12796))
+If you use this dataset or the accompanying Python code in your work, please cite the following papers ([Shuta Kikuchi, Nozomu Togawa, and Shu Tanaka, arXiv:2304.12796](https://arxiv.org/abs/2304.12796))
 
 ```
 @article{kikuchi2023dynamical,
