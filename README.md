@@ -8,7 +8,9 @@ This repository contains the dataset used in the paper "Dynamical process of a b
 
 The data format is a Python dictionary. The dataset is divided into two types: `ising_linear` and `ising_quad`.
 
-**ising_linear**: The keys are strings representing spins, and the values are integers representing the coefficients of the magnetic field on the spins.
+**Note**: The datasets are stored in `.npy` format, which are binary files.
+
+**ising_linear**: The keys are strings representing spins, and the values are integers representing the magnetic field coefficients on the spins.
 
 example:
 
@@ -21,7 +23,7 @@ ising_linear = {
 }
 ```
 
-**ising_quad**: The keys are tuples of strings representing pairs of spins that interact with each other, and the values are the coefficients of the interaction.
+**ising_quad**: The keys are tuples of strings representing pairs of spins that interact with each other, and the values are the interaction coefficients.
 
 example:
 
