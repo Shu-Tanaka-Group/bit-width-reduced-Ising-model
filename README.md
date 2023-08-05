@@ -37,16 +37,16 @@ ising_quad = {
 }
 ```
 
-**Note**: The above examples are illustrative and do not represent the complete dataset.
+**Note**: The above examples are illustrative and do not represent the full dataset.
 
 
 ## Dataset Locations
 
-- The square lattice system data used in Section III and V of the paper is stored in the `Ferromagnetic_square_lattice_system` folder under `L=30`.
+- The square lattice system data used in Section III and V of the paper is stored in the `Ferromagnetic_square_lattice_system` directory under `L=30`.
 
-- The square lattice system data used in Appendix B of the paper is stored in the `Ferromagnetic_square_lattice_system` folder under `L=40` and `L=50`.
+- The square lattice system data used in Appendix B of the paper is stored in the `Ferromagnetic_square_lattice_system` directory under `L=40` and `L=50`.
 
-- The square lattice system data used in Section VI and Appendix B is stored in the `Random_square_lattice_system` folder.
+- The square lattice system data used in Section VI and Appendix B is stored in the `Random_square_lattice_system` directory.
 
 
 ## Python Code to Generate Dataset
