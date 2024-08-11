@@ -62,6 +62,10 @@ This dataset is released under the MIT License.
 If you use this dataset or the accompanying Python code in your work, please cite the following papers ([Shuta Kikuchi, Nozomu Togawa, and Shu Tanaka, 10.1109/ACCESS.2023.3310875](https://ieeexplore.ieee.org/document/10235958))
 
 ```
+Shuta Kikuchi, Nozomu Togawa, and Shu Tanaka, "Dynamical Process of a Bit-Width Reduced Ising Model With Simulated Annealing," IEEE Access, vol. 11, pp. 95493-95506, 2023, doi: 10.1109/ACCESS.2023.3310875.
+```
+
+```
 @article{kikuchi2023dynamical,
   title={Dynamical process of a bit-width reduced Ising model with simulated annealing},
   author={Kikuchi, Shuta and Togawa, Nozomu and Tanaka, Shu},
