@@ -66,6 +66,9 @@ If you use this dataset or the accompanying Python code in your work, please cit
   title={Dynamical process of a bit-width reduced Ising model with simulated annealing},
   author={Kikuchi, Shuta and Togawa, Nozomu and Tanaka, Shu},
   journal={IEEE Access},
-  year={2023}
+  year={2023},
+  volume={11},
+  pages={95493--95506},
+  doi={10.1109/ACCESS.2023.3310875}
 }
 ```
